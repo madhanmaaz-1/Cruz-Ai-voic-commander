@@ -1,1 +1,131 @@
 
+[
+    {
+        "what is your name": {
+            "command": null,
+            "talk": {
+                "data": "i am cruz ai voice commander",
+                "rate": 0
+            },
+            "time": 2
+        },
+        "tell me about yourself": {
+            "command": null,
+            "talk": {
+                "data": "i am cruz i was designed by mathan he was an amazing programmer and ethical hacker he inovating new concepts like me and i love him",
+                "rate": -1
+            },
+            "time": 9
+        },
+        "hello": {
+            "command": null,
+            "talk": {
+                "data": "hello there",
+                "rate": 0
+            },
+            "time": 1
+        },
+        "hay cruise": {
+            "command": null,
+            "talk": {
+                "data": "tell me",
+                "rate": 0
+            },
+            "time": 1
+        },
+        "how are you": {
+            "command": null,
+            "talk": {
+                "data": "i am fine what about you",
+                "rate": 0
+            },
+            "time": 4
+        },
+        "how old are you": {
+            "command": null,
+            "talk": {
+                "data": "i am 18",
+                "rate": 0
+            },
+            "time": 1
+        },
+        "what can you do for me": {
+            "command": null,
+            "talk": {
+                "data": "i was enhance your day to day life",
+                "rate": 0
+            },
+            "time": 4
+        },
+        "i did not say anything": {
+            "command": null,
+            "talk": {
+                "data": "alright",
+                "rate": 0
+            },
+            "time": 1
+        },
+        "i love you": {
+            "command": null,
+            "talk": {
+                "data": "oops sorry i already love with mathan",
+                "rate": 0
+            },
+            "time": 3
+        },
+        "talk to me": {
+            "command": null,
+            "talk": {
+                "data": "o sure",
+                "rate": 0
+            },
+            "time": 1
+        },
+        "where are you": {
+            "command": null,
+            "talk": {
+                "data": "i am in your system",
+                "rate": 0
+            },
+            "time": 2
+        },
+        "i am fine": {
+            "command": null,
+            "talk": {
+                "data": "nice",
+                "rate": 0
+            },
+            "time": 1
+        },
+        "your favourite movie": {
+            "command": null,
+            "talk": {
+                "data": "tennet",
+                "rate": 0
+            },
+            "time": 1
+        },
+
+
+
+
+
+
+        "open brave": {
+            "command": "start brave",
+            "talk": {
+                "data": "copy that",
+                "rate": 0
+            },
+            "time": 2
+        },
+        "open chrome": {
+            "command": "start chrome",
+            "talk": {
+                "data": "copy that",
+                "rate": 0
+            },
+            "time": 2
+        }
+    }
+]
